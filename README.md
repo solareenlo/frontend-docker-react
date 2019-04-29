@@ -1,5 +1,9 @@
 # frontend-docker-react
-DockerでReactを動かしたシンプルな例です.
+**Live Demo:** http://frontenddockerreact-env.fbdmefkujd.us-east-1.elasticbeanstalk.com
+
+Dockerコンテナ(React, Nginx)をGitHubに上げて, Travis CIでテストして, AWSのElastic Beanstalkにデプロイして動かした.
+
+***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
