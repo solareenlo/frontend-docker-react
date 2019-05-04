@@ -1,4 +1,4 @@
-# frontend-docker-react
+# frontend-docker-react [![Build Status](https://travis-ci.org/solareenlo/frontend-docker-react.svg?branch=master)](https://travis-ci.org/solareenlo/frontend-docker-react)
 **Live Demo:** http://frontenddockerreact-env.fbdmefkujd.us-east-1.elasticbeanstalk.com
 
 Dockerコンテナ(React, Nginx)をGitHubに上げて, Travis CIでテストして, AWSのElastic Beanstalkにデプロイして動かした.
